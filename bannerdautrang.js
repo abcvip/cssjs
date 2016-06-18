@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='htp://faceseo.vn' target='_blank'><img src='http//fujiresidence.vn/wp-content/uploads/2016/06/BANNER-FUJI-RESIDENCE.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='htp://faceseo.vn' target='_blank'><img src='http://fujiresidence.vn/wp-content/uploads/2016/06/BANNER-FUJI-RESIDENCE.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
